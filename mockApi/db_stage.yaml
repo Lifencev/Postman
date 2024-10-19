@@ -17,6 +17,86 @@ products:
     price: 30
     sku: 999921312423312
     description: awesome
+  - name: Chips
+    price: fa
+    sku: 123321123
+    description: methodology Table Gloves Fort
+    id: 4
+  - name: Shirt
+    price: -42
+    sku: 123321123
+    description: Orchestrator strategize Rubber
+    id: 5
+  - name: Chair
+    price: -1
+    sku: 123321123
+    description: Terrace orange
+    id: 6
+  - name: Pizza
+    price: -27
+    sku: 123321123
+    description: Pound Borders Buckinghamshire
+    id: 8
+  - name: Salad
+    price: -61
+    sku: 123321123
+    description: Computers Pizza content-based Qatar
+    id: 8
+  - name: Chips
+    price: 577.75
+    sku: 123321123
+    description: virtual target JSON
+    id: 9
+  - name: ""
+    price: 203.45
+    sku: 123321123
+    description: Buckinghamshire Chicken
+    id: 10
+  - name: Salad
+    price: 745.08
+    sku: 123321123
+    description: Corporate protocol RSS primary experiences
+    id: 11
+  - name: Pizza
+    price: -20
+    sku: 123321123
+    description: Guinea Square See navigating
+    id: 12
+  - name: ""
+    price: 523.17
+    sku: 123321123
+    description: middleware Global
+    id: 13
+  - name: Table
+    price: -17
+    sku: 123321123
+    description: Tasty redundant back
+    id: 15
+  - name: ""
+    price: 109.17
+    sku: 123321123
+    description: Tugrik bandwidth USB deploy
+    id: 16
+  - name: Chicken
+    price: -8
+    sku: 123321123
+    description: Rand Garden Coordinator niches
+    id: 17
+  - name: ""
+    price: 896.17
+    sku: 123321123
+    description: maroon Small calculate SMTP
+    id: 18
+  - name: Cheese
+    price: 172.11
+    sku: 123321123
+    description: RSS array
+    id: 18
+  - name: Pizza
+    price: -80
+    sku: 123321123
+    description: deposit circuit
+    id: 19
 orders:
   - id: 1
     name: order1
@@ -101,15 +181,6 @@ users:
     status: active
     level: consumer
   - id: 9
-    firstName: asdasd
-    lastName: asd
-    email: asdasd.smith@gmail.com
-    dateOfBirth: 1997-10-31
-    emailVerified: false
-    signUpDate: 2019-08-24
-    status: active
-    level: consumer
-  - id: 10
     firstName: asdasd
     lastName: asd
     email: asdasd.smith@gmail.com
