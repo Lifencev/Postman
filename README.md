@@ -1,5 +1,9 @@
 # Postman + newman + github actions (Simple store template)
 
+In this project, I wrote my queries and tests for the store collection (only for one folder, as the intro video said). So, there are changes only in the Products folder.
+
+I have split the product folder into subfolders to help organize queries. Also, I'd like to point out that collection variables have been created.
+
 <a href="https://drive.google.com/file/d/1LQ1uG7Tt70Jubuk5loS4dMSk-1AJ5jzz/view?usp=sharing" /> Intro </a>
 
 ## Task steps / First task
