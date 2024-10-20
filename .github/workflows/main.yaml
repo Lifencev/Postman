@@ -34,6 +34,9 @@ jobs:
           name: RunReports
           path: testResults
 
+      - name: Rename Report to index.html
+        run: mv testResults/htmlreport.html testResults/index.html
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
