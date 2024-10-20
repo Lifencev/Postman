@@ -1,4 +1,4 @@
-name: Test-Build and Deploy Report to Github Pages
+name: Test-Build and Deploy generated Report to Github Pages
 on: 
   push:
     branches:
